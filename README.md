@@ -1,1 +1,1 @@
-# Third dimensional Space of Thought.
+# Three dimensional Space of Thought.
