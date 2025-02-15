@@ -1,14 +1,12 @@
-Ok, I had to activate Nitro for this message, but I feel it’s worth it. :credit_card: Swipe.
-
-**The problem of the __Fully depicting Metaverse__** 
+# **The problem of the __Fully depicting Metaverse__** 
 Sharing the Metaverse is like consciousness, everyone has a different version of YOU in their mind, and you can’t fully prove it.
 
 You can’t fully transmit what’s in your head without some compression. Unfortunately, words are linear, and sharing spatial concepts has always been accomplished through architecture because, in essence, we’re all architects of the Metaverse. Here, with the help of context, I’ll try to bridge some of those gaps.
 
-**Problem with Metaverse.**
+## **Problem with Metaverse.**
 Everyone visualizes it based on their own ability to imagine concepts and ideas. No two people picture the same Metaverse; it’s like different worlds with many similarities. When building software, you don’t get caught up in the differences, you start by establishing a structure from experience and then narrow it down to what’s essential for an MVP (minimum viable product) that attracts investors.
 
-**Practically speaking,**
+### **Practically speaking,**
 Exploring the finer details requires significant time and funding.
 Everyone dreams of infinite possibilities, but turning those dreams into a working Metaverse requires structured design, clear goals, and a balance between creativity and computation.
 
@@ -18,7 +16,7 @@ Perhaps the goal of the Metaverse is to help people solve whatever they desire w
 :star::star: Ultimate shovel and pickaxe store :pick:
 Just look at minecraft.
 
-**How do we make sense of the Metaverse? Let’s start with logic.**
+## **How do we make sense of the Metaverse? Let’s start with logic.**
 To truly depict something without losing details, it’s best to approach it from the three principles of logic:
 
 1. **Law of identity** - A thing that's given identity is identical to itself.
@@ -30,7 +28,7 @@ To truly depict something without losing details, it’s best to approach it fro
 > There are no in-between answers. The cat is either cat or not. If it's a cat with a half being dog, then it's another type of a being. 
 > Like :white_heart: if you loved watching CatDog TV Series!
 
-**So, what is Metaverse?.** 
+## **So, what is Metaverse?.** 
 The word “Metaverse” comes from “Meta” and “Universe.”
 - So Meta is a prefix that means more comprehensive or transcending, simply put beyond. 
 I'm taking this from spirituality, as it explains beautifully.
@@ -39,7 +37,7 @@ I'm taking this from spirituality, as it explains beautifully.
 - Universe refers to all of space, time, and their contents.
 > Which are simply put 4D Space-Time as described in Albert Einstein's Theory of Relativity! :headstone:  R.I.P.
 
-**Short Geometry Guide (with Emojis!)**
+## **Short Geometry Guide (with Emojis!)**
 
 1. Dot. :white_circle:  
 > To explain what dimensions are, Imagine a single . dot. It's 1D Space.
@@ -53,7 +51,7 @@ I'm taking this from spirituality, as it explains beautifully.
 4.:hourglass: :milky_way: :hourglass_flowing_sand: 
 > A line made of planes—this is what we call space-time, or 4D.
 
-**Conclusion of basics.**
+## **Conclusion of basics.**
 
 By breaking down these fundamental elements, we can say that the 
 > Metaverse is a space of experience that is beyond the physical realm.
