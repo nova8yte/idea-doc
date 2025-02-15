@@ -1,3 +1,3 @@
 # Three dimensional Space of Thought.
 
-[IDEA.md](IDEA.md)
+[Metaverse is a space of experience that is beyond the physical realm. - IDEA.md](IDEA.md)
