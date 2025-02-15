@@ -51,6 +51,7 @@ I'm taking this from spirituality, as it explains beautifully.
 4.:hourglass: :milky_way: :hourglass_flowing_sand: 
 > A line made of planes—this is what we call space-time, or 4D.
 
+(Continue Discussion)[https://discord.com/channels/887789163045335081/1340053091088601208]
 ## **Conclusion of basics.**
 
 By breaking down these fundamental elements, we can say that the 
