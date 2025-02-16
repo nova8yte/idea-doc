@@ -1,6 +1,6 @@
 # Three-Dimensional Space of Thought  
 
-**Not a place. Not a product. Unfolding thought itself.**  
+**Not a place. Not a product. Unfolding thoughts.**  
 
 ## Glossary  
 - [Metaverse is a space of experience beyond the physical realm. - IDEA.md](IDEA.md) — Is it?  
