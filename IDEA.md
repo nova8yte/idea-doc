@@ -22,7 +22,7 @@ To truly depict something without losing details, it’s best to approach it fro
 1. **Law of identity** - A thing that's given identity is identical to itself.
 > So if I state a Cup ":coffee:" - is an open-top vessel (container) used to hold liquids for drinking. 
 > The color, what it holds, difference in texture are Properties, which shall be included with specific type of a cup. A cup of coffee per example. Which adds specifics to help in determining a thing or a concept that the person refers to.
-2. **Law of non-contradiction **
+2. **Law of non-contradiction**
 > This principle means that if something is a cat, it cannot simultaneously be not a cat. It preserves meaning consistently across time and space.
 3. **And law of the excluded middle**
 > There are no in-between answers. The cat is either cat or not. If it's a cat with a half being dog, then it's another type of a being. 
