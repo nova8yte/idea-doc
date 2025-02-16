@@ -44,11 +44,14 @@ I'm taking this from spirituality, as it explains beautifully.
 2. Line. :white_circle::white_circle::white_circle: 
 > A seamless series of dots where one flows into the next represents 2D space.
 3. Plain.
-:white_circle::white_circle::white_circle:
-:white_circle::white_circle::white_circle:
-:white_circle::white_circle::white_circle: 
+
+| ⚪ | ⚪ | ⚪ |
+|----|----|----|
+| ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ |
+
 > A plane formed by these lines is 3D space.
-4.:hourglass: :milky_way: :hourglass_flowing_sand: 
+4.⌛ 🌌 ⏳
 > A line made of planes—this is what we call space-time, or 4D.
 
 ## **Conclusion of basics.**
@@ -56,4 +59,6 @@ I'm taking this from spirituality, as it explains beautifully.
 By breaking down these fundamental elements, we can say that the 
 > Metaverse is a space of experience that is beyond the physical realm.
 
+[EXPERIENCE.md](EXPERIENCE.md)
+or
 [Continue Discussion](https://discord.com/channels/887789163045335081/1340053091088601208)
