@@ -61,4 +61,4 @@ By breaking down these fundamental elements, we can say that the
 
 [EXPERIENCE.md](EXPERIENCE.md)
 or
-[Continue Discussion](https://discord.com/channels/887789163045335081/1340053091088601208)
+[Continue Discussion](https://discord.com/channels/887789163045335081/1340053091088601208) But first [Join in.](https://discord.com/invite/Rypf8Kc6CZ)
