@@ -3,6 +3,7 @@
 **Not a place. Not a product. Unfolding thoughts.**  
 
 ## Glossary  
+- [Summary of discussion](https://hackmd.io/@RealmWeaver/HJNnLxRYkg)
 - [Metaverse is a space of experience beyond the physical realm. - IDEA.md](IDEA.md) — Is it?  
 - [SimpleSketch](SimpleSketch.pdf) — More like a technical abstract drawing.  
 
